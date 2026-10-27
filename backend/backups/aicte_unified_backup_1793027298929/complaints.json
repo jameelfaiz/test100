@@ -1,0 +1,81 @@
+[
+  {
+    "_id": "6ade85654eaf15daf9ebabed",
+    "institutionId": "CLG-2026-000005",
+    "title": "Allegation of unauthorized fee collection",
+    "description": "Inspection required regarding non-prescribed laboratory maintenance fees collected from students.",
+    "status": "RESOLVED",
+    "createdAt": "2026-10-25T22:40:37.983Z",
+    "updatedAt": "2026-10-25T22:40:38.228Z",
+    "__v": 0,
+    "finalOutcome": "UNSUBSTANTIATED"
+  },
+  {
+    "_id": "6ade85ab1756c044d632899b",
+    "institutionId": "CLG-2026-000006",
+    "title": "Allegation of unauthorized fee collection",
+    "description": "Inspection required regarding non-prescribed laboratory maintenance fees collected from students.",
+    "status": "RESOLVED",
+    "createdAt": "2026-10-25T22:41:47.354Z",
+    "updatedAt": "2026-10-25T22:41:47.601Z",
+    "__v": 0,
+    "finalOutcome": "UNSUBSTANTIATED"
+  },
+  {
+    "_id": "6adf6a2f5bfc4d093eb4e565",
+    "complaintReference": "VIG-2026-529728",
+    "institutionId": "6ade958590cd25d5d5ae0f73",
+    "collegeId": "CLG-2026-000009",
+    "institutionNameSnapshot": "Bannari Amman",
+    "complainant": {
+      "name": "gokul",
+      "email": "gokulsrkk@gmail.com"
+    },
+    "category": "VIGILANCE",
+    "title": "Vigilance Report on Financial Irregularities / Misconduct",
+    "subject": "Vigilance Complaint",
+    "description": "Lab facilities are poor",
+    "source": "PUBLIC",
+    "assignedDepartment": "VIGILANCE",
+    "investigationStatus": "NEW",
+    "status": "NEW",
+    "evidenceReferences": [],
+    "supportingDocuments": [],
+    "evidencePath": "/api/public/files/7dcd2bb0-3d0a-4d7e-8de9-00e9a0c4493e.png",
+    "attachments": [
+      {
+        "name": "LinkedIn.png",
+        "fileName": "7dcd2bb0-3d0a-4d7e-8de9-00e9a0c4493e.png",
+        "fileUrl": "/api/public/files/7dcd2bb0-3d0a-4d7e-8de9-00e9a0c4493e.png",
+        "type": "PNG",
+        "size": "169 KB",
+        "uploadDate": "2026-10-26T14:56:47.677Z",
+        "_id": "6adf6a2f5bfc4d093eb4e566"
+      }
+    ],
+    "publicStatusMessage": "Complaint registered and queued for Vigilance review.",
+    "statusHistory": [
+      {
+        "status": "NEW",
+        "reason": "Public vigilance complaint submitted online",
+        "updatedBy": "PUBLIC_COMPLAINANT",
+        "updatedAt": "2026-10-26T14:56:47.677Z",
+        "_id": "6adf6a2f5bfc4d093eb4e567"
+      }
+    ],
+    "auditHistory": [
+      {
+        "action": "PUBLIC_VIGILANCE_SUBMISSION",
+        "performedBy": "gokulsrkk@gmail.com",
+        "timestamp": "2026-10-26T14:56:47.677Z",
+        "details": "Vigilance Complaint VIG-2026-529728 registered against Bannari Amman",
+        "_id": "6adf6a2f5bfc4d093eb4e568"
+      }
+    ],
+    "escalatedToVigilance": false,
+    "investigationNotes": [],
+    "createdAt": "2026-10-26T14:56:47.681Z",
+    "updatedAt": "2026-10-26T14:56:47.681Z",
+    "__v": 0
+  }
+]

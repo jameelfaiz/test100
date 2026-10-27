@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "6ade7a909f1b999de10f9d4d",
+    "paymentId": "PAY-2026-001",
+    "collegeId": "CLG-2026-000001",
+    "applicationId": "APP-2026-001",
+    "amount": 2500000,
+    "status": "PENDING_VERIFICATION",
+    "referenceNumber": "FDR/SBI/2026/78901",
+    "bankName": "State Bank of India",
+    "branchName": "Shivaji Nagar Branch, Pune",
+    "ifscCode": "SBIN0001423",
+    "paymentDate": "2026-07-10T00:00:00.000Z",
+    "maturityDate": "2026-11-09T21:54:24.911Z",
+    "isActive": true,
+    "remarks": "",
+    "createdAt": "2026-07-10T00:00:00.000Z",
+    "updatedAt": "2026-07-10T00:00:00.000Z",
+    "documents": [
+      {
+        "id": "FDR001-FDOC-1",
+        "name": "Fixed Deposit Receipt",
+        "type": "PDF",
+        "size": "1.1 MB",
+        "uploadDate": "2026-07-15T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "FDR001-FDOC-2",
+        "name": "Bank Confirmation Letter",
+        "type": "PDF",
+        "size": "0.6 MB",
+        "uploadDate": "2026-07-15T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "FDR001-FDOC-3",
+        "name": "Lien Marking Certificate",
+        "type": "PDF",
+        "size": "0.9 MB",
+        "uploadDate": "2026-07-16T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "_id": "6ade7a909f1b999de10f9d4e",
+    "paymentId": "PAY-2026-002",
+    "collegeId": "CLG-2026-000002",
+    "applicationId": "APP-2026-002",
+    "amount": 1500000,
+    "status": "VERIFIED",
+    "referenceNumber": "FDR/HDFC/2026/45678",
+    "bankName": "HDFC Bank",
+    "branchName": "Hinjewadi Phase II, Pune",
+    "ifscCode": "HDFC0000240",
+    "paymentDate": "2026-07-12T00:00:00.000Z",
+    "maturityDate": "2027-08-21T21:54:24.911Z",
+    "isActive": true,
+    "remarks": "",
+    "createdAt": "2026-07-12T00:00:00.000Z",
+    "updatedAt": "2026-07-12T00:00:00.000Z",
+    "documents": [
+      {
+        "id": "FDR002-FDOC-1",
+        "name": "Fixed Deposit Receipt",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-07-15T00:00:00.000Z",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "FDR002-FDOC-2",
+        "name": "Bank Confirmation Letter",
+        "type": "PDF",
+        "size": "0.8 MB",
+        "uploadDate": "2026-07-15T00:00:00.000Z",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "FDR002-FDOC-3",
+        "name": "Lien Marking Certificate",
+        "type": "PDF",
+        "size": "1.0 MB",
+        "uploadDate": "2026-07-16T00:00:00.000Z",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "_id": "6ade85654eaf15daf9ebabec",
+    "collegeId": "CLG-2026-000005",
+    "paymentId": "FDR-1792968037730-59",
+    "referenceNumber": "FDR-037726",
+    "paymentDate": "2026-10-25T22:40:37.730Z",
+    "amount": 3500000,
+    "method": "FDR",
+    "receiptPath": "",
+    "status": "VERIFIED",
+    "isActive": true,
+    "remarks": "",
+    "verificationLetterSent": false,
+    "bankName": "State Bank of India",
+    "branchName": "Vasant Kunj Branch",
+    "maturityDate": "2031-10-25T00:00:00.000Z",
+    "createdAt": "2026-10-25T22:40:37.730Z",
+    "updatedAt": "2026-10-25T22:40:37.741Z",
+    "__v": 1,
+    "documents": []
+  },
+  {
+    "_id": "6ade85ab1756c044d632899a",
+    "collegeId": "CLG-2026-000006",
+    "paymentId": "FDR-1792968107069-397",
+    "referenceNumber": "FDR-107063",
+    "paymentDate": "2026-10-25T22:41:47.069Z",
+    "amount": 3500000,
+    "method": "FDR",
+    "receiptPath": "",
+    "status": "VERIFIED",
+    "isActive": true,
+    "remarks": "",
+    "verificationLetterSent": false,
+    "bankName": "State Bank of India",
+    "branchName": "Vasant Kunj Branch",
+    "maturityDate": "2031-10-25T00:00:00.000Z",
+    "documents": [
+      {
+        "id": "doc-fdr-receipt",
+        "name": "Fixed Deposit Receipt Copy",
+        "type": "PDF",
+        "size": "1.8 MB",
+        "status": "Verified",
+        "file": "fdr_receipt_scan.pdf",
+        "remarks": "",
+        "verificationLetterSent": true,
+        "verificationLetterDate": "2026-10-25T22:41:47.104Z",
+        "verificationLetter": {
+          "id": "VERIF-LTR-doc-fdr-receipt-1792968107104",
+          "letterRef": "AICTE/FDR-VERIF/FDR-107063/doc-fdr-receipt",
+          "collegeName": "Delhi Institute of Technology 7655",
+          "institutionId": "CLG-2026-000006",
+          "fdrReference": "FDR-107063",
+          "documentId": "doc-fdr-receipt",
+          "documentName": "Fixed Deposit Receipt Copy",
+          "depositAmount": 3500000,
+          "verificationDate": "26/10/2026",
+          "generationDate": "2026-10-25T22:41:47.104Z",
+          "sendingDate": "2026-10-25T22:41:47.104Z",
+          "deliveryStatus": "Sent",
+          "content": "================================================================================\nALL INDIA COUNCIL FOR TECHNICAL EDUCATION (AICTE)\nNelson Mandela Marg, Vasant Kunj, New Delhi - 110070\nFINANCE & FIXED DEPOSIT RECEIPT (FDR) DIVISION\n================================================================================\n\nLETTER OF DEPOSIT DOCUMENT VERIFICATION\nRef No.   : AICTE/FDR-VERIF/FDR-107063/doc-fdr-receipt\nDate      : 26/10/2026\n\nTo,\nThe Principal / Director,\nDelhi Institute of Technology 7655\nInstitution ID: CLG-2026-000006\n\nSUBJECT: OFFICIAL CONFIRMATION OF FIXED DEPOSIT (FDR) DOCUMENT VERIFICATION\n\nDear Sir / Madam,\n\nThis is to certify that the deposit document submitted by Delhi Institute of Technology 7655 in accordance with AICTE statutory approval requirements has been scrutinized and successfully VERIFIED by the competent authority.\n\nVERIFICATION DETAILS:\n--------------------------------------------------------------------------------\n1. College Name            : Delhi Institute of Technology 7655\n2. Institution Reference   : CLG-2026-000006\n3. FDR Reference Number    : FDR-107063\n4. Deposit Amount          : ₹35,00,000\n5. Document Title          : Fixed Deposit Receipt Copy\n6. Document Identification : doc-fdr-receipt\n7. Verification Date       : 26/10/2026\n8. Verification Status     : VERIFIED & CONFIRMED\n\nVERIFICATION CONFIRMATION:\nThe All India Council for Technical Education confirms that the fixed deposit receipt and associated bank documents have met all prescribed validation criteria, including statutory lien markings and account particulars.\n\nThis letter stands recorded as formal proof of verification in the official AICTE FDR Registry.\n\nYours faithfully,\n\nMember Secretary / Section Officer\nFixed Deposit Division\nAll India Council for Technical Education (AICTE)\n================================================================================"
+        }
+      },
+      {
+        "id": "doc-joint-mandate",
+        "name": "Joint Lien AICTE Mandate Letter",
+        "type": "PDF",
+        "size": "1.1 MB",
+        "status": "Verified",
+        "file": "joint_mandate_letter.pdf",
+        "remarks": ""
+      }
+    ],
+    "createdAt": "2026-10-25T22:41:47.070Z",
+    "updatedAt": "2026-10-25T22:41:47.118Z",
+    "__v": 3
+  }
+]

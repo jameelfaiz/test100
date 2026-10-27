@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "6adf57279183ff477ff7fe4a",
+    "letterReference": "AICTE/FD/COMP-OUTCOME/PGRC/CLG-2026-000001/1793021735727-1847",
+    "__v": 0,
+    "collegeId": "CLG-2026-000001",
+    "complaintReferences": [
+      "PGRC-2026-362241"
+    ],
+    "content": "================================================================================\nALL INDIA COUNCIL FOR TECHNICAL EDUCATION (AICTE)\nNelson Mandela Marg, Vasant Kunj, New Delhi - 110070\nFINANCE & REGULATORY COMPLIANCE DIVISION\n================================================================================\n\nOFFICIAL NOTICE: PGRC GRIEVANCE SCREENING OUTCOME\nRef No.   : AICTE/FD/COMP-OUTCOME/PGRC/CLG-2026-000001/1793021735727-1847\nDate      : 26/10/2026\n\nTo,\nThe Principal / Director,\nBharatiya Institute of Technology\nInstitution ID: CLG-2026-000001\n\nSUBJECT: OFFICIAL DETERMINATION OF PGRC COMPLIANCE STATUS\n\nDear Sir / Madam,\n\nThis is to inform that the institutional records and complaints referred to the Public Grievance Redressal Cell (PGRC) concerning Bharatiya Institute of Technology have been scrutinized under AICTE statutory compliance regulations.\n\nFINDING STATUS: REJECTED\nDEPARTMENT    : PGRC\nCOMPLAINT REF : PGRC-2026-362241\nDECISION CAUSE: Inspection confirmed complete absence of mandatory safety equipment.\n\nDETERMINATION SUMMARY:\nOne or more grievances/allegations against the institution stand PROVEN upon inquiry. Corrective regulatory measures and statutory conditions apply.\n\nYours faithfully,\n\nAuthorized Officer\nFinance & Statutory Compliance Division\nAll India Council for Technical Education (AICTE)\n================================================================================",
+    "createdAt": "2026-10-26T13:35:35.748Z",
+    "department": "PGRC",
+    "generatedBy": "fd_emp",
+    "generatedDate": "2026-10-26T13:35:35.748Z",
+    "institutionId": "6ade74ce0ab91dee98c72836",
+    "institutionName": "Bharatiya Institute of Technology",
+    "isSent": true,
+    "reason": "Inspection confirmed complete absence of mandatory safety equipment.",
+    "sentBy": "fd_emp",
+    "sentDate": "2026-10-26T13:35:35.748Z",
+    "status": "REJECTED",
+    "updatedAt": "2026-10-26T13:35:35.748Z",
+    "version": 1
+  },
+  {
+    "_id": "6adf57409183ff477ff7fe4b",
+    "letterReference": "AICTE/FD/COMP-OUTCOME/PGRC/CLG-2026-000001/1793021760816-3955",
+    "__v": 0,
+    "collegeId": "CLG-2026-000001",
+    "complaintReferences": [
+      "PGRC-2026-235762"
+    ],
+    "content": "================================================================================\nALL INDIA COUNCIL FOR TECHNICAL EDUCATION (AICTE)\nNelson Mandela Marg, Vasant Kunj, New Delhi - 110070\nFINANCE & REGULATORY COMPLIANCE DIVISION\n================================================================================\n\nOFFICIAL NOTICE: PGRC GRIEVANCE SCREENING OUTCOME\nRef No.   : AICTE/FD/COMP-OUTCOME/PGRC/CLG-2026-000001/1793021760816-3955\nDate      : 26/10/2026\n\nTo,\nThe Principal / Director,\nBharatiya Institute of Technology\nInstitution ID: CLG-2026-000001\n\nSUBJECT: OFFICIAL DETERMINATION OF PGRC COMPLIANCE STATUS\n\nDear Sir / Madam,\n\nThis is to inform that the institutional records and complaints referred to the Public Grievance Redressal Cell (PGRC) concerning Bharatiya Institute of Technology have been scrutinized under AICTE statutory compliance regulations.\n\nFINDING STATUS: REJECTED\nDEPARTMENT    : PGRC\nCOMPLAINT REF : PGRC-2026-235762\nDECISION CAUSE: Inspection confirmed complete absence of mandatory safety equipment.\n\nDETERMINATION SUMMARY:\nOne or more grievances/allegations against the institution stand PROVEN upon inquiry. Corrective regulatory measures and statutory conditions apply.\n\nYours faithfully,\n\nAuthorized Officer\nFinance & Statutory Compliance Division\nAll India Council for Technical Education (AICTE)\n================================================================================",
+    "createdAt": "2026-10-26T13:36:00.823Z",
+    "department": "PGRC",
+    "generatedBy": "fd_emp",
+    "generatedDate": "2026-10-26T13:36:00.822Z",
+    "institutionId": "6ade74ce0ab91dee98c72836",
+    "institutionName": "Bharatiya Institute of Technology",
+    "isSent": true,
+    "reason": "Inspection confirmed complete absence of mandatory safety equipment.",
+    "sentBy": "fd_emp",
+    "sentDate": "2026-10-26T13:36:00.822Z",
+    "status": "REJECTED",
+    "updatedAt": "2026-10-26T13:36:00.823Z",
+    "version": 1
+  }
+]

@@ -1,0 +1,33 @@
+# Root-level gitignore for Unified AICTE Portal
+
+# Local development credentials — NEVER commit
+EMPLOYEE_CREDENTIALS.local
+*.local
+*.credentials
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Upload storage (evidence files — not committed)
+backend/uploads/
+
+# TypeScript build info
+*.tsbuildinfo

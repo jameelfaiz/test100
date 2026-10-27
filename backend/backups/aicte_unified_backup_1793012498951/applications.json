@@ -1,0 +1,720 @@
+[
+  {
+    "_id": "6ade7a909f1b999de10f9d4b",
+    "applicationId": "APP-2026-001",
+    "collegeId": "CLG-2026-000001",
+    "title": "B.Tech in Computer Science and Engineering",
+    "programme": "B.Tech (Computer Science & Engineering)",
+    "intake": 120,
+    "status": "SUBMITTED",
+    "academicYear": "2026-2027",
+    "submissionDate": "2026-06-15T00:00:00.000Z",
+    "createdAt": "2026-06-15T00:00:00.000Z",
+    "updatedAt": "2026-06-15T00:00:00.000Z",
+    "result": null,
+    "letterGenerated": false,
+    "letterText": "",
+    "letterSent": false,
+    "letterSentDate": null,
+    "depositDetails": null,
+    "depositDetailsSent": false,
+    "documentItems": [
+      {
+        "id": "APP001-DOC-1",
+        "name": "Trust/Society Registration Certificate",
+        "type": "PDF",
+        "size": "2.4 MB",
+        "uploadDate": "2026-06-10T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP001-DOC-2",
+        "name": "Land Documents & Building Plans",
+        "type": "PDF",
+        "size": "8.1 MB",
+        "uploadDate": "2026-06-10T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP001-DOC-3",
+        "name": "Faculty Details & Appointments",
+        "type": "PDF",
+        "size": "3.7 MB",
+        "uploadDate": "2026-06-11T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP001-DOC-4",
+        "name": "FDR / Bank Guarantee Certificate",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-06-11T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP001-DOC-5",
+        "name": "Affidavit on Stamp Paper",
+        "type": "PDF",
+        "size": "0.8 MB",
+        "uploadDate": "2026-06-12T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "_id": "6ade7a909f1b999de10f9d4c",
+    "applicationId": "APP-2026-002",
+    "collegeId": "CLG-2026-000002",
+    "title": "M.Tech in VLSI Design",
+    "programme": "M.Tech (VLSI Design)",
+    "intake": 30,
+    "status": "SUBMITTED",
+    "academicYear": "2026-2027",
+    "submissionDate": "2026-06-18T00:00:00.000Z",
+    "createdAt": "2026-06-18T00:00:00.000Z",
+    "updatedAt": "2026-06-18T00:00:00.000Z",
+    "result": null,
+    "letterGenerated": false,
+    "letterText": "",
+    "letterSent": false,
+    "letterSentDate": null,
+    "depositDetails": null,
+    "depositDetailsSent": false,
+    "documentItems": [
+      {
+        "id": "APP002-DOC-1",
+        "name": "Trust/Society Registration Certificate",
+        "type": "PDF",
+        "size": "2.4 MB",
+        "uploadDate": "2026-06-12T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP002-DOC-2",
+        "name": "Land Documents & Building Plans",
+        "type": "PDF",
+        "size": "7.8 MB",
+        "uploadDate": "2026-06-12T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP002-DOC-3",
+        "name": "Faculty Details & Appointments",
+        "type": "PDF",
+        "size": "3.2 MB",
+        "uploadDate": "2026-06-13T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP002-DOC-4",
+        "name": "FDR / Bank Guarantee Certificate",
+        "type": "PDF",
+        "size": "1.1 MB",
+        "uploadDate": "2026-06-13T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP002-DOC-5",
+        "name": "Affidavit on Stamp Paper",
+        "type": "PDF",
+        "size": "0.9 MB",
+        "uploadDate": "2026-06-14T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "_id": "6ade8ed4d1b4546dd3d8f794",
+    "collegeId": "TEST-CLG-A-1792970452636",
+    "applicationId": "APP-TEST-1792970452636",
+    "title": "Computer Science and Artificial Intelligence",
+    "type": "New Approval",
+    "description": "Application for new undergraduate course intake",
+    "documents": [
+      "Land_Title_Deed.pdf",
+      "Building_Completion_Certificate.pdf",
+      "Faculty_Cadre_Affidavit.pdf"
+    ],
+    "status": "SUBMITTED",
+    "programme": "Computer Science and Artificial Intelligence",
+    "intake": 120,
+    "result": null,
+    "letterType": null,
+    "deficiencyRemarks": [],
+    "letterGenerated": false,
+    "letterText": "",
+    "letterSent": false,
+    "depositDetailsSent": false,
+    "documentItems": [
+      {
+        "id": "APP-TEST-1792970452636-DOC-1",
+        "name": "Land_Title_Deed.pdf",
+        "type": "PDF",
+        "size": "2.4 MB",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP-TEST-1792970452636-DOC-2",
+        "name": "Building_Completion_Certificate.pdf",
+        "type": "PDF",
+        "size": "3.1 MB",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "APP-TEST-1792970452636-DOC-3",
+        "name": "Faculty_Cadre_Affidavit.pdf",
+        "type": "PDF",
+        "size": "1.1 MB",
+        "status": "Pending",
+        "remarks": ""
+      }
+    ],
+    "submissionDate": "2026-10-25T23:20:52.918Z",
+    "createdAt": "2026-10-25T23:20:52.918Z",
+    "updatedAt": "2026-10-25T23:20:52.918Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8ed5d1b4546dd3d8f795",
+    "collegeId": "TEST-CLG-A-1792970452636",
+    "applicationId": "APP-DEF-1792970452636",
+    "title": "Mechanical Engineering Renewal",
+    "type": "Renewal / Extension",
+    "description": "Extension of approval application",
+    "documents": [
+      "Safety_Certificate.pdf",
+      "Faculty_Register.pdf"
+    ],
+    "status": "UNDER_REVIEW",
+    "programme": "Mechanical Engineering",
+    "intake": 60,
+    "result": null,
+    "letterType": null,
+    "deficiencyRemarks": [],
+    "letterGenerated": false,
+    "letterText": "",
+    "letterSent": false,
+    "depositDetailsSent": false,
+    "documentItems": [
+      {
+        "id": "APP-DEF-1792970452636-DOC-1",
+        "name": "Safety_Certificate.pdf",
+        "type": "PDF",
+        "size": "1.5 MB",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "APP-DEF-1792970452636-DOC-2",
+        "name": "Faculty_Register.pdf",
+        "type": "PDF",
+        "size": "2.0 MB",
+        "status": "Not Verified",
+        "remarks": "Inadequate professor cadre ratio as per AICTE norms."
+      }
+    ],
+    "submissionDate": "2026-10-25T23:20:53.222Z",
+    "createdAt": "2026-10-25T23:20:53.222Z",
+    "updatedAt": "2026-10-25T23:20:53.222Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8f3eb79b160c4e45a326",
+    "collegeId": "TEST-CLG-A-1792970558170",
+    "applicationId": "APP-TEST-1792970558170",
+    "title": "Computer Science and Artificial Intelligence",
+    "type": "New Approval",
+    "description": "Application for new undergraduate course intake",
+    "documents": [
+      "Land_Title_Deed.pdf",
+      "Building_Completion_Certificate.pdf",
+      "Faculty_Cadre_Affidavit.pdf"
+    ],
+    "status": "APPROVED",
+    "programme": "Computer Science and Artificial Intelligence",
+    "intake": 120,
+    "result": "LoA",
+    "letterType": "LoA",
+    "deficiencyRemarks": [],
+    "letterGenerated": true,
+    "letterText": "================================================================================\nALL INDIA COUNCIL FOR TECHNICAL EDUCATION (AICTE)\n(A STATUTORY BODY OF THE GOVERNMENT OF INDIA)\nNelson Mandela Marg, Vasant Kunj, New Delhi - 110070\nWebsite: www.aicte-india.org\n================================================================================\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nLetter Ref. No.: AICTE/AB/2026-27/TEST-CLG-A-1792970558170/APP-TEST-1792970558170\nDate of Issue: 26 October 2026\n\nTo,\nThe Principal / Director,\nApex Engineering Institute,\nCollege ID: TEST-CLG-A-1792970558170\nAddress: 100 AICTE Knowledge Park, Pune, Pune, Maharashtra\n\nSubject: Grant of LETTER OF APPROVAL (LoA) for Academic Year 2026-2027\n\nSir / Madam,\n\nIn terms of the provisions under the All India Council for Technical Education (Grant of Approvals for Technical Institutions) Regulations, and based on the comprehensive verification of all mandatory documents submitted by the institution, I am directed to convey the official approval of the Council to:\n\n  • Institution Name    : Apex Engineering Institute\n  • Permanent ID        : TEST-CLG-A-1792970558170\n  • Application ID      : APP-TEST-1792970558170\n  • Category / Title    : Computer Science and Artificial Intelligence\n  • Programme           : Computer Science and Artificial Intelligence\n  • Approved Intake     : 120 Seats\n  • Academic Year       : 2026-2027\n\nTERMS AND CONDITIONS OF APPROVAL:\n1. The institution shall strictly adhere to the norms and standards prescribed by AICTE from time to time.\n2. The approval is subject to condition that the institution shall maintain mandatory Joint Fixed Deposit Receipt (FDR) / Endowment deposits as specified by the Finance Division.\n3. The Finance Division will issue specific Deposit Instructions detailing required deposit amount and bank account details.\n4. No excess admission shall be made by the institution over and above the approved intake under any circumstances.\n5. In case of any violation, AICTE reserves the right to withdraw the approval as per regulations.\n\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nYours faithfully,\nCompetent Authority / Section Officer\nFinance Division (FD) & Approval Bureau\nAll India Council for Technical Education",
+    "letterSent": true,
+    "depositDetailsSent": true,
+    "documentItems": [
+      {
+        "id": "APP-TEST-1792970558170-DOC-1",
+        "name": "Land_Title_Deed.pdf",
+        "type": "PDF",
+        "size": "2.4 MB",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-25T23:22:38.663Z"
+      },
+      {
+        "id": "APP-TEST-1792970558170-DOC-2",
+        "name": "Building_Completion_Certificate.pdf",
+        "type": "PDF",
+        "size": "3.1 MB",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-25T23:22:38.713Z"
+      },
+      {
+        "id": "APP-TEST-1792970558170-DOC-3",
+        "name": "Faculty_Cadre_Affidavit.pdf",
+        "type": "PDF",
+        "size": "1.1 MB",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-25T23:22:38.723Z"
+      }
+    ],
+    "submissionDate": "2026-10-25T23:22:38.413Z",
+    "createdAt": "2026-10-25T23:22:38.413Z",
+    "updatedAt": "2026-10-25T23:22:38.790Z",
+    "__v": 4,
+    "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970558170/APP-TEST-1792970558170",
+    "letterSentDate": "2026-10-25T23:22:38.755Z",
+    "depositDetails": {
+      "bankAccountNumber": "AICTE-AXIS-9876543210",
+      "depositAmount": 1500000,
+      "depositDeadline": "2026-12-31T00:00:00.000Z",
+      "sentBy": "fd_emp",
+      "sentAt": "2026-10-25T23:22:38.790Z",
+      "version": 1,
+      "status": "Active",
+      "applicationId": "APP-TEST-1792970558170",
+      "collegeId": "TEST-CLG-A-1792970558170",
+      "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970558170/APP-TEST-1792970558170",
+      "history": []
+    }
+  },
+  {
+    "_id": "6ade8f3eb79b160c4e45a327",
+    "collegeId": "TEST-CLG-A-1792970558170",
+    "applicationId": "APP-DEF-1792970558170",
+    "title": "Mechanical Engineering Renewal",
+    "type": "Renewal / Extension",
+    "description": "Extension of approval application",
+    "documents": [
+      "Safety_Certificate.pdf",
+      "Faculty_Register.pdf"
+    ],
+    "status": "REJECTED",
+    "programme": "Mechanical Engineering",
+    "intake": 60,
+    "result": "LoD",
+    "letterType": "LoD",
+    "deficiencyRemarks": [
+      {
+        "docId": "APP-DEF-1792970558170-DOC-2",
+        "docName": "Faculty_Register.pdf",
+        "remarks": "Inadequate professor cadre ratio as per AICTE norms."
+      }
+    ],
+    "letterGenerated": true,
+    "letterText": "================================================================================\nALL INDIA COUNCIL FOR TECHNICAL EDUCATION (AICTE)\n(A STATUTORY BODY OF THE GOVERNMENT OF INDIA)\nNelson Mandela Marg, Vasant Kunj, New Delhi - 110070\nWebsite: www.aicte-india.org\n================================================================================\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nLetter Ref. No.: AICTE/AB/2026-27/TEST-CLG-A-1792970558170/APP-DEF-1792970558170\nDate of Issue: 26 October 2026\n\nTo,\nThe Principal / Director,\nApex Engineering Institute,\nCollege ID: TEST-CLG-A-1792970558170\nAddress: 100 AICTE Knowledge Park, Pune, Pune, Maharashtra\n\nSubject: LETTER OF DEFICIENCY (LoD) — Mandatory Document Deficiencies Identified\n\nSir / Madam,\n\nWith reference to Application ID APP-DEF-1792970558170 submitted by your institution for Mechanical Engineering, this is to convey that upon detailed scrutiny by the Finance Division, deficiencies were observed in the submitted documentation.\n\nDOCUMENT-LEVEL DEFICIENCIES NOTED:\n  1. Document: Faculty_Register.pdf (PDF)\n     Deficiency Remark: Inadequate professor cadre ratio as per AICTE norms.\n\nACTION REQUIRED:\n1. The institution is advised to rectify the aforementioned deficiencies immediately.\n2. Fresh compliance documentation must be prepared and submitted through the portal.\n3. Failure to rectify deficiencies within the stipulated time may lead to final rejection of the application.\n\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nYours faithfully,\nCompetent Authority / Section Officer\nFinance Division (FD) & Approval Bureau\nAll India Council for Technical Education",
+    "letterSent": true,
+    "depositDetailsSent": false,
+    "documentItems": [
+      {
+        "id": "APP-DEF-1792970558170-DOC-1",
+        "name": "Safety_Certificate.pdf",
+        "type": "PDF",
+        "size": "1.5 MB",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "APP-DEF-1792970558170-DOC-2",
+        "name": "Faculty_Register.pdf",
+        "type": "PDF",
+        "size": "2.0 MB",
+        "status": "Not Verified",
+        "remarks": "Inadequate professor cadre ratio as per AICTE norms."
+      }
+    ],
+    "submissionDate": "2026-10-25T23:22:38.806Z",
+    "createdAt": "2026-10-25T23:22:38.806Z",
+    "updatedAt": "2026-10-25T23:22:38.820Z",
+    "__v": 1,
+    "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970558170/APP-DEF-1792970558170",
+    "letterSentDate": "2026-10-25T23:22:38.820Z"
+  },
+  {
+    "_id": "6ade8fc0d23c5fca3163f6d1",
+    "collegeId": "TEST-CLG-A-1792970688288",
+    "applicationId": "APP-TEST-1792970688288",
+    "title": "Computer Science and Artificial Intelligence",
+    "type": "New Approval",
+    "description": "Application for new undergraduate course intake",
+    "documents": [
+      "Land_Title_Deed.pdf",
+      "Building_Completion_Certificate.pdf",
+      "Faculty_Cadre_Affidavit.pdf"
+    ],
+    "status": "APPROVED",
+    "programme": "Computer Science and Artificial Intelligence",
+    "intake": 120,
+    "result": "LoA",
+    "letterType": "LoA",
+    "deficiencyRemarks": [],
+    "letterGenerated": true,
+    "letterText": "================================================================================\nALL INDIA COUNCIL FOR TECHNICAL EDUCATION (AICTE)\n(A STATUTORY BODY OF THE GOVERNMENT OF INDIA)\nNelson Mandela Marg, Vasant Kunj, New Delhi - 110070\nWebsite: www.aicte-india.org\n================================================================================\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nLetter Ref. No.: AICTE/AB/2026-27/TEST-CLG-A-1792970688288/APP-TEST-1792970688288\nDate of Issue: 26 October 2026\n\nTo,\nThe Principal / Director,\nApex Engineering Institute,\nCollege ID: TEST-CLG-A-1792970688288\nAddress: 100 AICTE Knowledge Park, Pune, Pune, Maharashtra\n\nSubject: Grant of LETTER OF APPROVAL (LoA) for Academic Year 2026-2027\n\nSir / Madam,\n\nIn terms of the provisions under the All India Council for Technical Education (Grant of Approvals for Technical Institutions) Regulations, and based on the comprehensive verification of all mandatory documents submitted by the institution, I am directed to convey the official approval of the Council to:\n\n  • Institution Name    : Apex Engineering Institute\n  • Permanent ID        : TEST-CLG-A-1792970688288\n  • Application ID      : APP-TEST-1792970688288\n  • Category / Title    : Computer Science and Artificial Intelligence\n  • Programme           : Computer Science and Artificial Intelligence\n  • Approved Intake     : 120 Seats\n  • Academic Year       : 2026-2027\n\nTERMS AND CONDITIONS OF APPROVAL:\n1. The institution shall strictly adhere to the norms and standards prescribed by AICTE from time to time.\n2. The approval is subject to condition that the institution shall maintain mandatory Joint Fixed Deposit Receipt (FDR) / Endowment deposits as specified by the Finance Division.\n3. The Finance Division will issue specific Deposit Instructions detailing required deposit amount and bank account details.\n4. No excess admission shall be made by the institution over and above the approved intake under any circumstances.\n5. In case of any violation, AICTE reserves the right to withdraw the approval as per regulations.\n\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nYours faithfully,\nCompetent Authority / Section Officer\nFinance Division (FD) & Approval Bureau\nAll India Council for Technical Education",
+    "letterSent": true,
+    "depositDetailsSent": true,
+    "documentItems": [
+      {
+        "id": "APP-TEST-1792970688288-DOC-1",
+        "name": "Land_Title_Deed.pdf",
+        "type": "PDF",
+        "size": "2.4 MB",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-25T23:24:48.796Z"
+      },
+      {
+        "id": "APP-TEST-1792970688288-DOC-2",
+        "name": "Building_Completion_Certificate.pdf",
+        "type": "PDF",
+        "size": "3.1 MB",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-25T23:24:48.847Z"
+      },
+      {
+        "id": "APP-TEST-1792970688288-DOC-3",
+        "name": "Faculty_Cadre_Affidavit.pdf",
+        "type": "PDF",
+        "size": "1.1 MB",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-25T23:24:48.856Z"
+      }
+    ],
+    "submissionDate": "2026-10-25T23:24:48.564Z",
+    "createdAt": "2026-10-25T23:24:48.564Z",
+    "updatedAt": "2026-10-25T23:24:48.923Z",
+    "__v": 4,
+    "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970688288/APP-TEST-1792970688288",
+    "letterSentDate": "2026-10-25T23:24:48.888Z",
+    "depositDetails": {
+      "bankAccountNumber": "AICTE-AXIS-9876543210",
+      "depositAmount": 1500000,
+      "depositDeadline": "2026-12-31T00:00:00.000Z",
+      "sentBy": "fd_emp",
+      "sentAt": "2026-10-25T23:24:48.923Z",
+      "version": 1,
+      "status": "Active",
+      "applicationId": "APP-TEST-1792970688288",
+      "collegeId": "TEST-CLG-A-1792970688288",
+      "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970688288/APP-TEST-1792970688288",
+      "history": []
+    }
+  },
+  {
+    "_id": "6ade8fc0d23c5fca3163f6d2",
+    "collegeId": "TEST-CLG-A-1792970688288",
+    "applicationId": "APP-DEF-1792970688288",
+    "title": "Mechanical Engineering Renewal",
+    "type": "Renewal / Extension",
+    "description": "Extension of approval application",
+    "documents": [
+      "Safety_Certificate.pdf",
+      "Faculty_Register.pdf"
+    ],
+    "status": "REJECTED",
+    "programme": "Mechanical Engineering",
+    "intake": 60,
+    "result": "LoD",
+    "letterType": "LoD",
+    "deficiencyRemarks": [
+      {
+        "docId": "APP-DEF-1792970688288-DOC-2",
+        "docName": "Faculty_Register.pdf",
+        "remarks": "Inadequate professor cadre ratio as per AICTE norms."
+      }
+    ],
+    "letterGenerated": true,
+    "letterText": "================================================================================\nALL INDIA COUNCIL FOR TECHNICAL EDUCATION (AICTE)\n(A STATUTORY BODY OF THE GOVERNMENT OF INDIA)\nNelson Mandela Marg, Vasant Kunj, New Delhi - 110070\nWebsite: www.aicte-india.org\n================================================================================\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nLetter Ref. No.: AICTE/AB/2026-27/TEST-CLG-A-1792970688288/APP-DEF-1792970688288\nDate of Issue: 26 October 2026\n\nTo,\nThe Principal / Director,\nApex Engineering Institute,\nCollege ID: TEST-CLG-A-1792970688288\nAddress: 100 AICTE Knowledge Park, Pune, Pune, Maharashtra\n\nSubject: LETTER OF DEFICIENCY (LoD) — Mandatory Document Deficiencies Identified\n\nSir / Madam,\n\nWith reference to Application ID APP-DEF-1792970688288 submitted by your institution for Mechanical Engineering, this is to convey that upon detailed scrutiny by the Finance Division, deficiencies were observed in the submitted documentation.\n\nDOCUMENT-LEVEL DEFICIENCIES NOTED:\n  1. Document: Faculty_Register.pdf (PDF)\n     Deficiency Remark: Inadequate professor cadre ratio as per AICTE norms.\n\nACTION REQUIRED:\n1. The institution is advised to rectify the aforementioned deficiencies immediately.\n2. Fresh compliance documentation must be prepared and submitted through the portal.\n3. Failure to rectify deficiencies within the stipulated time may lead to final rejection of the application.\n\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nYours faithfully,\nCompetent Authority / Section Officer\nFinance Division (FD) & Approval Bureau\nAll India Council for Technical Education",
+    "letterSent": true,
+    "depositDetailsSent": false,
+    "documentItems": [
+      {
+        "id": "APP-DEF-1792970688288-DOC-1",
+        "name": "Safety_Certificate.pdf",
+        "type": "PDF",
+        "size": "1.5 MB",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "APP-DEF-1792970688288-DOC-2",
+        "name": "Faculty_Register.pdf",
+        "type": "PDF",
+        "size": "2.0 MB",
+        "status": "Not Verified",
+        "remarks": "Inadequate professor cadre ratio as per AICTE norms."
+      }
+    ],
+    "submissionDate": "2026-10-25T23:24:48.938Z",
+    "createdAt": "2026-10-25T23:24:48.938Z",
+    "updatedAt": "2026-10-25T23:24:48.952Z",
+    "__v": 1,
+    "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970688288/APP-DEF-1792970688288",
+    "letterSentDate": "2026-10-25T23:24:48.951Z"
+  },
+  {
+    "_id": "6adea5ce470b921b575f292a",
+    "collegeId": "Bannari Amman",
+    "applicationId": "APP-1792976334095-635",
+    "title": "AICTE Approval Seeking & Extension of Approval (EoA)",
+    "type": "APPROVAL_SEEKING",
+    "description": "Annual institution compliance and approval seeking document submission",
+    "documents": [
+      "f350f92e-828c-4e6f-becb-946f75bc377f.png",
+      "17602126-5553-466f-8138-d926249faa48.pdf",
+      "0078cdf4-78d2-4e52-961d-0db7ebd35c34.png",
+      "4587070e-4b4c-422d-96f9-7fb7acf399ab.png",
+      "9744e94b-97dd-40e6-adb6-b602f91b1de8.png",
+      "f9dc30ed-721c-48d4-8f64-70f25cbc00a2.png",
+      "808e4053-c228-4c5d-8526-8ecf6e90893c.png",
+      "45e88456-e5d2-49af-8c59-7e2edcf1f401.png",
+      "2011e0cb-0c30-44fc-ada6-58abdd77e57b.png",
+      "bd680334-fc64-4841-8409-28861d62df82.png",
+      "eff25c95-7159-4e24-abce-be904463d467.png",
+      "89ace364-4450-4004-99cc-b7d00562124e.png"
+    ],
+    "submissionDate": "2026-10-26T00:58:54.095Z",
+    "status": "SUBMITTED",
+    "result": null,
+    "letterType": null,
+    "deficiencyRemarks": [],
+    "letterGenerated": false,
+    "letterText": "",
+    "letterSent": false,
+    "depositDetailsSent": false,
+    "createdAt": "2026-10-26T00:58:54.098Z",
+    "updatedAt": "2026-10-26T00:58:57.603Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adeb5b4470b921b575f2939",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "AICTE Approval Seeking & Extension of Approval (EoA)",
+    "type": "APPROVAL_SEEKING",
+    "description": "Annual institution compliance and approval seeking document submission",
+    "documents": [
+      "42192a96-976e-4c87-a1f6-1f0e3530d4b8.jpeg",
+      "e4247577-1b05-4680-b16f-1278800dd0fb.jpeg",
+      "ae1654e7-40e5-457c-82bf-f645227e07f8.jpeg",
+      "ff51252e-a9c3-4ba6-807d-827d7d9745b4.png",
+      "fc842af2-8932-48e7-8002-d9dd5774d008.png",
+      "4f302c30-8062-424f-8935-6ded71214ae4.png",
+      "21936305-0bf5-442a-a5ea-2bd7614d9f7f.png",
+      "f36598f1-2def-49b3-b701-0624f3511a15.png",
+      "2657e95f-3021-439c-bcae-093fc273512b.png",
+      "798160b3-6196-458e-a6b4-f255b1f69102.png",
+      "d11f3f59-2b7e-4d85-b4e4-3650da0a52dc.png",
+      "fbe158ca-a28a-4d04-83e3-b7316c288299.png"
+    ],
+    "submissionDate": "2026-10-26T02:06:44.606Z",
+    "status": "REJECTED",
+    "result": "EoD",
+    "letterType": "EoD",
+    "deficiencyRemarks": [
+      {
+        "docId": "APP-1792980404606-590-DOC-3",
+        "docName": "DOC-03: Approved Building Plan",
+        "remarks": "nothing just service"
+      }
+    ],
+    "letterGenerated": true,
+    "letterText": "================================================================================\nALL INDIA COUNCIL FOR TECHNICAL EDUCATION (AICTE)\n(A STATUTORY BODY OF THE GOVERNMENT OF INDIA)\nNelson Mandela Marg, Vasant Kunj, New Delhi - 110070\nWebsite: www.aicte-india.org\n================================================================================\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nLetter Ref. No.: AICTE/AB/2026-27/Sakthi/APP-1792980404606-590\nDate of Issue: 26 October 2026\n\nTo,\nThe Principal / Director,\nInstitution Name,\nCollege ID: Sakthi\nAddress: Address on Record, , \n\nSubject: EXTENSION DEFICIENCY NOTICE (EoD) — Mandatory Document Deficiencies Identified\n\nSir / Madam,\n\nWith reference to Application ID APP-1792980404606-590 submitted by your institution for AICTE Approval Seeking & Extension of Approval (EoA), this is to convey that upon detailed scrutiny by the Finance Division, deficiencies were observed in the submitted documentation.\n\nDOCUMENT-LEVEL DEFICIENCIES NOTED:\n  1. Document: DOC-03: Approved Building Plan (PDF)\n     Deficiency Remark: nothing just service\n\nACTION REQUIRED:\n1. The institution is advised to rectify the aforementioned deficiencies immediately.\n2. Fresh compliance documentation must be prepared and submitted through the portal.\n3. Failure to rectify deficiencies within the stipulated time may lead to final rejection of the application.\n\n[PROTOTYPE GENERATED DOCUMENT — FOR DEMONSTRATION PURPOSES ONLY — NOT AN OFFICIAL AICTE ISSUANCE]\n\nYours faithfully,\nCompetent Authority / Section Officer\nFinance Division (FD) & Approval Bureau\nAll India Council for Technical Education",
+    "letterSent": true,
+    "depositDetailsSent": false,
+    "createdAt": "2026-10-26T02:06:44.610Z",
+    "updatedAt": "2026-10-26T10:37:35.499Z",
+    "__v": 13,
+    "categoryDocuments": [],
+    "documentItems": [
+      {
+        "id": "APP-1792980404606-590-DOC-1",
+        "code": "DOC-01",
+        "name": "DOC-01: Land Ownership Documents / Registered Sale/Lease Deed",
+        "fileName": "42192a96-976e-4c87-a1f6-1f0e3530d4b8.jpeg",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:36:21.517Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-2",
+        "code": "DOC-02",
+        "name": "DOC-02: Land Conversion / Land Use Certificate",
+        "fileName": "e4247577-1b05-4680-b16f-1278800dd0fb.jpeg",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:01.120Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-3",
+        "code": "DOC-03",
+        "name": "DOC-03: Approved Building Plan",
+        "fileName": "ae1654e7-40e5-457c-82bf-f645227e07f8.jpeg",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Not Verified",
+        "remarks": "nothing just service",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:36:56.822Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-4",
+        "code": "DOC-04",
+        "name": "DOC-04: Building Completion / Occupancy Certificate",
+        "fileName": "ff51252e-a9c3-4ba6-807d-827d7d9745b4.png",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:06.297Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-5",
+        "code": "DOC-05",
+        "name": "DOC-05: Structural Stability Certificate",
+        "fileName": "fc842af2-8932-48e7-8002-d9dd5774d008.png",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:07.450Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-6",
+        "code": "DOC-06",
+        "name": "DOC-06: Fire & Life Safety NOC",
+        "fileName": "4f302c30-8062-424f-8935-6ded71214ae4.png",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:11.420Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-7",
+        "code": "DOC-07",
+        "name": "DOC-07: Barrier-Free Environment & Ramp/Lift Certificate",
+        "fileName": "21936305-0bf5-442a-a5ea-2bd7614d9f7f.png",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:09.414Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-8",
+        "code": "DOC-08",
+        "name": "DOC-08: Potable Water & Sanitation Certificate",
+        "fileName": "f36598f1-2def-49b3-b701-0624f3511a15.png",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:12.681Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-9",
+        "code": "DOC-09",
+        "name": "DOC-09: AICTE Prescribed E-Affidavit (Affidavit-1)",
+        "fileName": "2657e95f-3021-439c-bcae-093fc273512b.png",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:16.018Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-10",
+        "code": "DOC-10",
+        "name": "DOC-10: Trust / Society Registration Certificate & MoA",
+        "fileName": "798160b3-6196-458e-a6b4-f255b1f69102.png",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:17.690Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-11",
+        "code": "DOC-11",
+        "name": "DOC-11: Audited Financial Statements (Last 3 Years)",
+        "fileName": "d11f3f59-2b7e-4d85-b4e4-3650da0a52dc.png",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:18.685Z"
+      },
+      {
+        "id": "APP-1792980404606-590-DOC-12",
+        "code": "DOC-12",
+        "name": "DOC-12: Faculty Cadre Ratio & Staff Joining Reports",
+        "fileName": "fbe158ca-a28a-4d04-83e3-b7316c288299.png",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-10-26T02:06:44.606Z",
+        "status": "Verified",
+        "remarks": "",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T10:37:19.869Z"
+      }
+    ],
+    "letterReferenceNumber": "AICTE/AB/2026-27/Sakthi/APP-1792980404606-590",
+    "letterSentDate": "2026-10-26T10:37:35.499Z"
+  }
+]

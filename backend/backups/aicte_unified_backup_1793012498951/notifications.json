@@ -1,0 +1,609 @@
+[
+  {
+    "_id": "6ade8f3e095c6db4520cf856",
+    "collegeId": "TEST-CLG-A-1792970558170",
+    "applicationId": "APP-TEST-1792970558170",
+    "title": "Document Verified",
+    "message": "Document \"Land_Title_Deed.pdf\" for application APP-TEST-1792970558170 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-TEST-1792970558170-DOC-1",
+      "docName": "Land_Title_Deed.pdf",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-25T23:22:38.672Z",
+    "updatedAt": "2026-10-25T23:22:38.672Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8f3e095c6db4520cf858",
+    "collegeId": "TEST-CLG-A-1792970558170",
+    "applicationId": "APP-TEST-1792970558170",
+    "title": "Document Deficiency Noted",
+    "message": "Document \"Building_Completion_Certificate.pdf\" was marked Not Verified. Remark: Building completion certificate lacks municipal corporation seal and signature.",
+    "type": "DOCUMENT_NOT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-TEST-1792970558170-DOC-2",
+      "docName": "Building_Completion_Certificate.pdf",
+      "status": "Not Verified",
+      "remarks": "Building completion certificate lacks municipal corporation seal and signature."
+    },
+    "createdAt": "2026-10-25T23:22:38.688Z",
+    "updatedAt": "2026-10-25T23:22:38.688Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8f3e095c6db4520cf85a",
+    "collegeId": "TEST-CLG-A-1792970558170",
+    "applicationId": "APP-TEST-1792970558170",
+    "title": "Document Verified",
+    "message": "Document \"Building_Completion_Certificate.pdf\" for application APP-TEST-1792970558170 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-TEST-1792970558170-DOC-2",
+      "docName": "Building_Completion_Certificate.pdf",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-25T23:22:38.717Z",
+    "updatedAt": "2026-10-25T23:22:38.717Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8f3e095c6db4520cf85c",
+    "collegeId": "TEST-CLG-A-1792970558170",
+    "applicationId": "APP-TEST-1792970558170",
+    "title": "Document Verified",
+    "message": "Document \"Faculty_Cadre_Affidavit.pdf\" for application APP-TEST-1792970558170 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-TEST-1792970558170-DOC-3",
+      "docName": "Faculty_Cadre_Affidavit.pdf",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-25T23:22:38.727Z",
+    "updatedAt": "2026-10-25T23:22:38.727Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8f3e095c6db4520cf85d",
+    "collegeId": "TEST-CLG-A-1792970558170",
+    "applicationId": "APP-TEST-1792970558170",
+    "title": "LoA Issued: Computer Science and Artificial Intelligence",
+    "message": "Official LoA (Ref: AICTE/AB/2026-27/TEST-CLG-A-1792970558170/APP-TEST-1792970558170) has been issued by AICTE. You can now view and download your approval letter under Receive > LoA/EoA.",
+    "type": "LOA_ISSUED",
+    "read": false,
+    "link": "/institution/receive/loa-eoa",
+    "metadata": {
+      "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970558170/APP-TEST-1792970558170",
+      "result": "LoA",
+      "issueDate": "2026-10-25T23:22:38.755Z"
+    },
+    "createdAt": "2026-10-25T23:22:38.757Z",
+    "updatedAt": "2026-10-25T23:22:38.757Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8f3e095c6db4520cf85e",
+    "collegeId": "TEST-CLG-A-1792970558170",
+    "applicationId": "APP-TEST-1792970558170",
+    "title": "Deposit Instructions Received",
+    "message": "AICTE Finance Division has issued deposit instructions for application APP-TEST-1792970558170. Amount: ₹15,00,000, AICTE Account: AICTE-AXIS-9876543210, Last Date: 31/12/2026.",
+    "type": "DEPOSIT_INSTRUCTIONS",
+    "read": false,
+    "link": "/institution/receive/deposit",
+    "metadata": {
+      "version": 1,
+      "depositAmount": 1500000,
+      "bankAccountNumber": "AICTE-AXIS-9876543210",
+      "depositDeadline": "2026-12-31T00:00:00.000Z"
+    },
+    "createdAt": "2026-10-25T23:22:38.794Z",
+    "updatedAt": "2026-10-25T23:22:38.794Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8f3e095c6db4520cf85f",
+    "collegeId": "TEST-CLG-A-1792970558170",
+    "applicationId": "APP-DEF-1792970558170",
+    "title": "LoD Issued: Mechanical Engineering",
+    "message": "Deficiency letter LoD (Ref: AICTE/AB/2026-27/TEST-CLG-A-1792970558170/APP-DEF-1792970558170) has been issued. Please review deficiency remarks under Receive > LoD/EoD.",
+    "type": "LOD_ISSUED",
+    "read": false,
+    "link": "/institution/receive/lod-eod",
+    "metadata": {
+      "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970558170/APP-DEF-1792970558170",
+      "result": "LoD",
+      "issueDate": "2026-10-25T23:22:38.820Z"
+    },
+    "createdAt": "2026-10-25T23:22:38.822Z",
+    "updatedAt": "2026-10-25T23:22:38.822Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8fc0570843b4f9ccfebc",
+    "collegeId": "TEST-CLG-A-1792970688288",
+    "applicationId": "APP-TEST-1792970688288",
+    "title": "Document Verified",
+    "message": "Document \"Land_Title_Deed.pdf\" for application APP-TEST-1792970688288 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-TEST-1792970688288-DOC-1",
+      "docName": "Land_Title_Deed.pdf",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-25T23:24:48.806Z",
+    "updatedAt": "2026-10-25T23:24:48.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8fc0570843b4f9ccfebe",
+    "collegeId": "TEST-CLG-A-1792970688288",
+    "applicationId": "APP-TEST-1792970688288",
+    "title": "Document Deficiency Noted",
+    "message": "Document \"Building_Completion_Certificate.pdf\" was marked Not Verified. Remark: Building completion certificate lacks municipal corporation seal and signature.",
+    "type": "DOCUMENT_NOT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-TEST-1792970688288-DOC-2",
+      "docName": "Building_Completion_Certificate.pdf",
+      "status": "Not Verified",
+      "remarks": "Building completion certificate lacks municipal corporation seal and signature."
+    },
+    "createdAt": "2026-10-25T23:24:48.821Z",
+    "updatedAt": "2026-10-25T23:24:48.821Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8fc0570843b4f9ccfec0",
+    "collegeId": "TEST-CLG-A-1792970688288",
+    "applicationId": "APP-TEST-1792970688288",
+    "title": "Document Verified",
+    "message": "Document \"Building_Completion_Certificate.pdf\" for application APP-TEST-1792970688288 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-TEST-1792970688288-DOC-2",
+      "docName": "Building_Completion_Certificate.pdf",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-25T23:24:48.850Z",
+    "updatedAt": "2026-10-25T23:24:48.850Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8fc0570843b4f9ccfec2",
+    "collegeId": "TEST-CLG-A-1792970688288",
+    "applicationId": "APP-TEST-1792970688288",
+    "title": "Document Verified",
+    "message": "Document \"Faculty_Cadre_Affidavit.pdf\" for application APP-TEST-1792970688288 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-TEST-1792970688288-DOC-3",
+      "docName": "Faculty_Cadre_Affidavit.pdf",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-25T23:24:48.860Z",
+    "updatedAt": "2026-10-25T23:24:48.860Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8fc0570843b4f9ccfec3",
+    "collegeId": "TEST-CLG-A-1792970688288",
+    "applicationId": "APP-TEST-1792970688288",
+    "title": "LoA Issued: Computer Science and Artificial Intelligence",
+    "message": "Official LoA (Ref: AICTE/AB/2026-27/TEST-CLG-A-1792970688288/APP-TEST-1792970688288) has been issued by AICTE. You can now view and download your approval letter under Receive > LoA/EoA.",
+    "type": "LOA_ISSUED",
+    "read": false,
+    "link": "/institution/receive/loa-eoa",
+    "metadata": {
+      "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970688288/APP-TEST-1792970688288",
+      "result": "LoA",
+      "issueDate": "2026-10-25T23:24:48.888Z"
+    },
+    "createdAt": "2026-10-25T23:24:48.889Z",
+    "updatedAt": "2026-10-25T23:24:48.889Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8fc0570843b4f9ccfec4",
+    "collegeId": "TEST-CLG-A-1792970688288",
+    "applicationId": "APP-TEST-1792970688288",
+    "title": "Deposit Instructions Received",
+    "message": "AICTE Finance Division has issued deposit instructions for application APP-TEST-1792970688288. Amount: ₹15,00,000, AICTE Account: AICTE-AXIS-9876543210, Last Date: 31/12/2026.",
+    "type": "DEPOSIT_INSTRUCTIONS",
+    "read": false,
+    "link": "/institution/receive/deposit",
+    "metadata": {
+      "version": 1,
+      "depositAmount": 1500000,
+      "bankAccountNumber": "AICTE-AXIS-9876543210",
+      "depositDeadline": "2026-12-31T00:00:00.000Z"
+    },
+    "createdAt": "2026-10-25T23:24:48.927Z",
+    "updatedAt": "2026-10-25T23:24:48.927Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade8fc0570843b4f9ccfec5",
+    "collegeId": "TEST-CLG-A-1792970688288",
+    "applicationId": "APP-DEF-1792970688288",
+    "title": "LoD Issued: Mechanical Engineering",
+    "message": "Deficiency letter LoD (Ref: AICTE/AB/2026-27/TEST-CLG-A-1792970688288/APP-DEF-1792970688288) has been issued. Please review deficiency remarks under Receive > LoD/EoD.",
+    "type": "LOD_ISSUED",
+    "read": false,
+    "link": "/institution/receive/lod-eod",
+    "metadata": {
+      "letterReferenceNumber": "AICTE/AB/2026-27/TEST-CLG-A-1792970688288/APP-DEF-1792970688288",
+      "result": "LoD",
+      "issueDate": "2026-10-25T23:24:48.951Z"
+    },
+    "createdAt": "2026-10-25T23:24:48.953Z",
+    "updatedAt": "2026-10-25T23:24:48.953Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adea27a0f41c0974fb50b44",
+    "collegeId": "TEST-CLG-J-1792975482158",
+    "applicationId": "REL-J-1792975482158",
+    "title": "Release Document Deficiency Noted",
+    "message": "Your release application document \"Joint Undertaking Affidavit\" requires correction: Notary stamp missing on Page 3 of Joint Undertaking Affidavit.",
+    "type": "DOCUMENT_NOT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "releaseRequestId": "REL-J-1792975482158",
+      "docId": "REL-J-1792975482158-DOC-2",
+      "docName": "Joint Undertaking Affidavit",
+      "status": "Not Verified",
+      "remarks": "Notary stamp missing on Page 3 of Joint Undertaking Affidavit."
+    },
+    "createdAt": "2026-10-26T00:44:42.401Z",
+    "updatedAt": "2026-10-26T00:44:42.401Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adea27a0f41c0974fb50b45",
+    "collegeId": "TEST-CLG-K-1792975482158",
+    "applicationId": "REL-K-1792975482158",
+    "title": "Release Application Approved",
+    "message": "Your FDR Release Application (Ref: FDR-K-1792975482158) has been approved by the Finance Division.",
+    "type": "RELEASE_APPROVED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "createdAt": "2026-10-26T00:44:42.474Z",
+    "updatedAt": "2026-10-26T00:44:42.474Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adea2f20f41c0974fb50b48",
+    "collegeId": "TEST-CLG-J-1792975602538",
+    "applicationId": "REL-J-1792975602538",
+    "title": "Release Document Deficiency Noted",
+    "message": "Your release application document \"Joint Undertaking Affidavit\" requires correction: Notary stamp missing on Page 3 of Joint Undertaking Affidavit.",
+    "type": "DOCUMENT_NOT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "releaseRequestId": "REL-J-1792975602538",
+      "docId": "REL-J-1792975602538-DOC-2",
+      "docName": "Joint Undertaking Affidavit",
+      "status": "Not Verified",
+      "remarks": "Notary stamp missing on Page 3 of Joint Undertaking Affidavit."
+    },
+    "createdAt": "2026-10-26T00:46:42.743Z",
+    "updatedAt": "2026-10-26T00:46:42.743Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adea2f20f41c0974fb50b49",
+    "collegeId": "TEST-CLG-K-1792975602538",
+    "applicationId": "REL-K-1792975602538",
+    "title": "Release Application Approved",
+    "message": "Your FDR Release Application (Ref: FDR-K-1792975602538) has been approved by the Finance Division.",
+    "type": "RELEASE_APPROVED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "createdAt": "2026-10-26T00:46:42.792Z",
+    "updatedAt": "2026-10-26T00:46:42.792Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adea359470b921b575f2924",
+    "collegeId": "TEST-CLG-J-1792975704725",
+    "applicationId": "REL-J-1792975704725",
+    "title": "Release Document Deficiency Noted",
+    "message": "Your release application document \"Joint Undertaking Affidavit\" requires correction: Notary stamp missing on Page 3 of Joint Undertaking Affidavit.",
+    "type": "DOCUMENT_NOT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "releaseRequestId": "REL-J-1792975704725",
+      "docId": "REL-J-1792975704725-DOC-2",
+      "docName": "Joint Undertaking Affidavit",
+      "status": "Not Verified",
+      "remarks": "Notary stamp missing on Page 3 of Joint Undertaking Affidavit."
+    },
+    "createdAt": "2026-10-26T00:48:25.175Z",
+    "updatedAt": "2026-10-26T00:48:25.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adea359470b921b575f2925",
+    "collegeId": "TEST-CLG-K-1792975704725",
+    "applicationId": "REL-K-1792975704725",
+    "title": "Release Application Approved",
+    "message": "Your FDR Release Application (Ref: FDR-K-1792975704725) has been approved by the Finance Division.",
+    "type": "RELEASE_APPROVED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "createdAt": "2026-10-26T00:48:25.259Z",
+    "updatedAt": "2026-10-26T00:48:25.259Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d25e65a8c888f373b39",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-01: Land Ownership Documents / Registered Sale/Lease Deed\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-1",
+      "docName": "DOC-01: Land Ownership Documents / Registered Sale/Lease Deed",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:36:21.549Z",
+    "updatedAt": "2026-10-26T10:36:21.549Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d48e65a8c888f373b3a",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Deficiency Noted",
+    "message": "Document \"DOC-03: Approved Building Plan\" was marked Not Verified. Remark: nothing just service",
+    "type": "DOCUMENT_NOT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-3",
+      "docName": "DOC-03: Approved Building Plan",
+      "status": "Not Verified",
+      "remarks": "nothing just service"
+    },
+    "createdAt": "2026-10-26T10:36:56.832Z",
+    "updatedAt": "2026-10-26T10:36:56.832Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d4de65a8c888f373b3b",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-02: Land Conversion / Land Use Certificate\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-2",
+      "docName": "DOC-02: Land Conversion / Land Use Certificate",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:01.127Z",
+    "updatedAt": "2026-10-26T10:37:01.127Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d52e65a8c888f373b3c",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-04: Building Completion / Occupancy Certificate\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-4",
+      "docName": "DOC-04: Building Completion / Occupancy Certificate",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:06.307Z",
+    "updatedAt": "2026-10-26T10:37:06.307Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d53e65a8c888f373b3d",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-05: Structural Stability Certificate\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-5",
+      "docName": "DOC-05: Structural Stability Certificate",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:07.458Z",
+    "updatedAt": "2026-10-26T10:37:07.458Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d55e65a8c888f373b3e",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-07: Barrier-Free Environment & Ramp/Lift Certificate\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-7",
+      "docName": "DOC-07: Barrier-Free Environment & Ramp/Lift Certificate",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:09.421Z",
+    "updatedAt": "2026-10-26T10:37:09.421Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d57e65a8c888f373b3f",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-06: Fire & Life Safety NOC\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-6",
+      "docName": "DOC-06: Fire & Life Safety NOC",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:11.426Z",
+    "updatedAt": "2026-10-26T10:37:11.426Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d58e65a8c888f373b40",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-08: Potable Water & Sanitation Certificate\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-8",
+      "docName": "DOC-08: Potable Water & Sanitation Certificate",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:12.686Z",
+    "updatedAt": "2026-10-26T10:37:12.686Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d5ce65a8c888f373b41",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-09: AICTE Prescribed E-Affidavit (Affidavit-1)\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-9",
+      "docName": "DOC-09: AICTE Prescribed E-Affidavit (Affidavit-1)",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:16.025Z",
+    "updatedAt": "2026-10-26T10:37:16.025Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d5de65a8c888f373b42",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-10: Trust / Society Registration Certificate & MoA\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-10",
+      "docName": "DOC-10: Trust / Society Registration Certificate & MoA",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:17.696Z",
+    "updatedAt": "2026-10-26T10:37:17.696Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d5ee65a8c888f373b43",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-11: Audited Financial Statements (Last 3 Years)\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-11",
+      "docName": "DOC-11: Audited Financial Statements (Last 3 Years)",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:18.692Z",
+    "updatedAt": "2026-10-26T10:37:18.692Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d5fe65a8c888f373b44",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "Document Verified",
+    "message": "Document \"DOC-12: Faculty Cadre Ratio & Staff Joining Reports\" for application APP-1792980404606-590 has been verified.",
+    "type": "DOCUMENT_VERIFIED",
+    "read": false,
+    "link": "/institution/dashboard",
+    "metadata": {
+      "docId": "APP-1792980404606-590-DOC-12",
+      "docName": "DOC-12: Faculty Cadre Ratio & Staff Joining Reports",
+      "status": "Verified",
+      "remarks": ""
+    },
+    "createdAt": "2026-10-26T10:37:19.875Z",
+    "updatedAt": "2026-10-26T10:37:19.875Z",
+    "__v": 0
+  },
+  {
+    "_id": "6adf2d6fe65a8c888f373b45",
+    "collegeId": "Sakthi",
+    "applicationId": "APP-1792980404606-590",
+    "title": "EoD Issued: AICTE Approval Seeking & Extension of Approval (EoA)",
+    "message": "Deficiency letter EoD (Ref: AICTE/AB/2026-27/Sakthi/APP-1792980404606-590) has been issued. Please review deficiency remarks under Receive > LoD/EoD.",
+    "type": "EOD_ISSUED",
+    "read": false,
+    "link": "/institution/receive/lod-eod",
+    "metadata": {
+      "letterReferenceNumber": "AICTE/AB/2026-27/Sakthi/APP-1792980404606-590",
+      "result": "EoD",
+      "issueDate": "2026-10-26T10:37:35.499Z"
+    },
+    "createdAt": "2026-10-26T10:37:35.502Z",
+    "updatedAt": "2026-10-26T10:37:35.502Z",
+    "__v": 0
+  }
+]

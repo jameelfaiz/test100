@@ -1,0 +1,21 @@
+{
+  "timestamp": 1793027298929,
+  "date": "2026-10-26T15:08:18.976Z",
+  "database": "aicte_unified",
+  "collections": {
+    "notifications": 43,
+    "releaserequests": 0,
+    "complaintletters": 2,
+    "users": 24,
+    "complaints": 3,
+    "payments": 3,
+    "counters": 1,
+    "investigations": 0,
+    "institutions": 7,
+    "auditlogs": 84,
+    "emailverificationtokens": 6,
+    "sessions": 273,
+    "applications": 2,
+    "documentverifications": 32
+  }
+}

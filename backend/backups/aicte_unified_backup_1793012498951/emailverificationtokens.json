@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "6ade74ce0ab91dee98c72838",
+    "institutionId": "6ade74ce0ab91dee98c72836",
+    "userId": "CLG-2026-000001",
+    "tokenHash": "cda695535c2d6e7cf8019551a70444426f7ced81e3e7e62dcdff957dda2a0909",
+    "expiresAt": "2026-10-26T21:29:50.690Z",
+    "used": false,
+    "createdAt": "2026-10-25T21:29:50.696Z",
+    "updatedAt": "2026-10-25T21:29:50.696Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade76ca0ab91dee98c7283b",
+    "institutionId": "6ade76ca0ab91dee98c72839",
+    "userId": "CLG-2026-000002",
+    "tokenHash": "c5b71c7680ded57f2d6c7b8cb60fa5d6054ee8e7ab987fd19a992f8812a79d22",
+    "expiresAt": "2026-10-26T21:38:18.798Z",
+    "used": false,
+    "createdAt": "2026-10-25T21:38:18.840Z",
+    "updatedAt": "2026-10-25T21:38:18.840Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade84ed4eaf15daf9ebabe5",
+    "institutionId": "6ade84ed4eaf15daf9ebabe3",
+    "userId": "CLG-2026-000003",
+    "tokenHash": "e458b5c77eed70e903c24377e9c16d5b8573d2c677c89516ad8729fa7f4bd16e",
+    "expiresAt": "2026-10-26T22:38:37.717Z",
+    "used": true,
+    "createdAt": "2026-10-25T22:38:37.718Z",
+    "updatedAt": "2026-10-25T22:38:37.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade85194eaf15daf9ebabe8",
+    "institutionId": "6ade85194eaf15daf9ebabe6",
+    "userId": "CLG-2026-000004",
+    "tokenHash": "2a284dc2acc56a3b0afa263ee24998a06131908d168fd53f3bce32fab6717876",
+    "expiresAt": "2026-10-26T22:39:21.092Z",
+    "used": true,
+    "createdAt": "2026-10-25T22:39:21.092Z",
+    "updatedAt": "2026-10-25T22:39:21.104Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade85654eaf15daf9ebabeb",
+    "institutionId": "6ade85654eaf15daf9ebabe9",
+    "userId": "CLG-2026-000005",
+    "tokenHash": "888281906e886d6d929be09ad80b98e826791d8c56789503236cb375ca6d1096",
+    "expiresAt": "2026-10-26T22:40:37.489Z",
+    "used": true,
+    "createdAt": "2026-10-25T22:40:37.489Z",
+    "updatedAt": "2026-10-25T22:40:37.500Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ade85aa1756c044d6328999",
+    "institutionId": "6ade85aa1756c044d6328997",
+    "userId": "CLG-2026-000006",
+    "tokenHash": "c58830355d1c383f44eaa86c42d27d76571a2e1aef6a5ee0fefd12b340fc5c8b",
+    "expiresAt": "2026-10-26T22:41:46.838Z",
+    "used": true,
+    "createdAt": "2026-10-25T22:41:46.838Z",
+    "updatedAt": "2026-10-25T22:41:46.845Z",
+    "__v": 0
+  }
+]

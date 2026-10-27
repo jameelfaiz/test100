@@ -1,0 +1,2352 @@
+[
+  {
+    "_id": "6ade7a909f1b999de10f9d4f",
+    "releaseRequestId": "REL-2026-001",
+    "collegeId": "CLG-2026-000002",
+    "fdrReference": "FDR/HDFC/2026/45678",
+    "amount": 1500000,
+    "reason": "Course closure approved by university — requesting statutory FDR release.",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "submissionDate": "2026-08-15T00:00:00.000Z",
+    "createdAt": "2026-08-15T00:00:00.000Z",
+    "updatedAt": "2026-10-26T10:47:10.679Z",
+    "declineRemarks": "",
+    "documentItems": [
+      {
+        "id": "REL001-RDOC-1",
+        "name": "Release Application Letter",
+        "type": "PDF",
+        "size": "1.2 MB",
+        "uploadDate": "2026-08-10T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "REL001-RDOC-2",
+        "name": "Extension of Approval (EoA) Copy",
+        "type": "PDF",
+        "size": "2.5 MB",
+        "uploadDate": "2026-08-10T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "REL001-RDOC-3",
+        "name": "Affidavit on Stamp Paper",
+        "type": "PDF",
+        "size": "0.9 MB",
+        "uploadDate": "2026-08-11T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      },
+      {
+        "id": "REL001-RDOC-4",
+        "name": "FDR Copy & Bank Lien Revocation",
+        "type": "PDF",
+        "size": "1.8 MB",
+        "uploadDate": "2026-08-11T00:00:00.000Z",
+        "status": "Pending",
+        "remarks": ""
+      }
+    ],
+    "__v": 1,
+    "applicationId": "REL-2026-001",
+    "depositDetails": "",
+    "documents": [],
+    "overallReleaseStatus": "DOCUMENT_DEFICIENCY",
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.571Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.678Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384b3",
+    "collegeId": "TEST-CLG-A-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384b2",
+    "releaseRequestId": "REL-A-1792975482158",
+    "applicationId": "REL-A-1792975482158",
+    "fdrReference": "FDR-A-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-A-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-A-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-A-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-A-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:44:42.175Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.179Z",
+    "updatedAt": "2026-10-26T10:47:10.676Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.569Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.676Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384b5",
+    "collegeId": "TEST-CLG-B-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384b4",
+    "releaseRequestId": "REL-B-1792975482158",
+    "applicationId": "REL-B-1792975482158",
+    "fdrReference": "FDR-B-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-B-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-B-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-B-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-B-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:44:42.214Z",
+    "status": "Pending",
+    "pgrcStatus": "REJECTED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.215Z",
+    "updatedAt": "2026-10-26T10:47:10.678Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Complaint",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.570Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.677Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384b8",
+    "collegeId": "TEST-CLG-C-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384b7",
+    "releaseRequestId": "REL-C-1792975482158",
+    "applicationId": "REL-C-1792975482158",
+    "fdrReference": "FDR-C-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-C-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-C-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-C-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-C-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:44:42.240Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.240Z",
+    "updatedAt": "2026-10-26T10:47:10.673Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "Complaint Not Proven",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.567Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.673Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384bb",
+    "collegeId": "TEST-CLG-D-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384ba",
+    "releaseRequestId": "REL-D-1792975482158",
+    "applicationId": "REL-D-1792975482158",
+    "fdrReference": "FDR-D-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-D-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-D-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-D-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-D-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "MATURITY_EXTENDED",
+    "submissionDate": "2026-10-26T00:44:42.264Z",
+    "status": "Pending",
+    "pgrcStatus": "MATURITY EXTENDED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.265Z",
+    "updatedAt": "2026-10-26T10:47:10.675Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "MATURITY EXTENDED",
+      "reason": "Complaint Investigation in Progress",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.568Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.674Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384be",
+    "collegeId": "TEST-CLG-E-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384bd",
+    "releaseRequestId": "REL-E-1792975482158",
+    "applicationId": "REL-E-1792975482158",
+    "fdrReference": "FDR-E-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-E-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-E-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-E-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-E-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:44:42.297Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.298Z",
+    "updatedAt": "2026-10-26T10:47:10.672Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.566Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.672Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384c1",
+    "collegeId": "TEST-CLG-F-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384c0",
+    "releaseRequestId": "REL-F-1792975482158",
+    "applicationId": "REL-F-1792975482158",
+    "fdrReference": "FDR-F-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-F-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-F-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-F-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-F-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:44:42.305Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.306Z",
+    "updatedAt": "2026-10-26T10:47:10.668Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.563Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.668Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384c4",
+    "collegeId": "TEST-CLG-G-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384c3",
+    "releaseRequestId": "REL-G-1792975482158",
+    "applicationId": "REL-G-1792975482158",
+    "fdrReference": "FDR-G-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-G-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-G-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-G-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-G-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:44:42.312Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.313Z",
+    "updatedAt": "2026-10-26T10:47:10.670Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.564Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.669Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384c8",
+    "collegeId": "TEST-CLG-H-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384c7",
+    "releaseRequestId": "REL-H-1792975482158",
+    "applicationId": "REL-H-1792975482158",
+    "fdrReference": "FDR-H-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-H-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-H-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-H-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-H-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:44:42.320Z",
+    "status": "Pending",
+    "pgrcStatus": "REJECTED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.320Z",
+    "updatedAt": "2026-10-26T10:47:10.671Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Complaint",
+      "count": 2,
+      "calculatedAt": "2026-10-26T10:47:10.565Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.671Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384cc",
+    "collegeId": "TEST-CLG-I-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384cb",
+    "releaseRequestId": "REL-I-1792975482158",
+    "applicationId": "REL-I-1792975482158",
+    "fdrReference": "FDR-I-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-I-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-I-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-I-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-I-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:44:42.352Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.353Z",
+    "updatedAt": "2026-10-26T10:47:10.667Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "Complaint Not Proven",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.561Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.666Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384d1",
+    "collegeId": "TEST-CLG-J-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384d0",
+    "releaseRequestId": "REL-J-1792975482158",
+    "applicationId": "REL-J-1792975482158",
+    "fdrReference": "FDR-J-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-J-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-J-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Not Verified",
+        "remarks": "Notary stamp missing on Page 3 of Joint Undertaking Affidavit.",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T00:44:42.373Z"
+      },
+      {
+        "id": "REL-J-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-J-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "DOCUMENT_DEFICIENCY",
+    "submissionDate": "2026-10-26T00:44:42.363Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.364Z",
+    "updatedAt": "2026-10-26T10:47:10.607Z",
+    "__v": 1,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.562Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.606Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384d3",
+    "collegeId": "TEST-CLG-K-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384d2",
+    "releaseRequestId": "REL-K-1792975482158",
+    "applicationId": "REL-K-1792975482158",
+    "fdrReference": "FDR-K-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-K-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-K-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-K-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-K-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:44:42.445Z",
+    "status": "Approved",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.445Z",
+    "updatedAt": "2026-10-26T10:47:10.665Z",
+    "__v": 0,
+    "reviewedAt": "2026-10-26T00:44:42.471Z",
+    "reviewedBy": "fd_emp",
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.560Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.664Z"
+    }
+  },
+  {
+    "_id": "6adea27ac65ac314db2384d5",
+    "collegeId": "TEST-CLG-L-1792975482158",
+    "institutionId": "6adea27ac65ac314db2384d4",
+    "releaseRequestId": "REL-L-1792975482158",
+    "applicationId": "REL-L-1792975482158",
+    "fdrReference": "FDR-L-1792975482158",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-L-1792975482158-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-L-1792975482158-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-L-1792975482158-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-L-1792975482158-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:44:42.485Z",
+    "status": "Pending",
+    "pgrcStatus": "REJECTED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:44:42.485Z",
+    "updatedAt": "2026-10-26T10:47:10.663Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Complaint",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.560Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.663Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd403df",
+    "collegeId": "TEST-CLG-A-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd403de",
+    "releaseRequestId": "REL-A-1792975602538",
+    "applicationId": "REL-A-1792975602538",
+    "fdrReference": "FDR-A-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-A-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-A-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-A-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-A-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:46:42.552Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.555Z",
+    "updatedAt": "2026-10-26T10:47:10.660Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.557Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.659Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd403e1",
+    "collegeId": "TEST-CLG-B-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd403e0",
+    "releaseRequestId": "REL-B-1792975602538",
+    "applicationId": "REL-B-1792975602538",
+    "fdrReference": "FDR-B-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-B-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-B-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-B-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-B-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:46:42.576Z",
+    "status": "Pending",
+    "pgrcStatus": "REJECTED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.576Z",
+    "updatedAt": "2026-10-26T10:47:10.662Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Complaint",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.559Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.661Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd403e4",
+    "collegeId": "TEST-CLG-C-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd403e3",
+    "releaseRequestId": "REL-C-1792975602538",
+    "applicationId": "REL-C-1792975602538",
+    "fdrReference": "FDR-C-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-C-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-C-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-C-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-C-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:46:42.597Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.598Z",
+    "updatedAt": "2026-10-26T10:47:10.656Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "Complaint Not Proven",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.555Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.655Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd403e7",
+    "collegeId": "TEST-CLG-D-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd403e6",
+    "releaseRequestId": "REL-D-1792975602538",
+    "applicationId": "REL-D-1792975602538",
+    "fdrReference": "FDR-D-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-D-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-D-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-D-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-D-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "MATURITY_EXTENDED",
+    "submissionDate": "2026-10-26T00:46:42.618Z",
+    "status": "Pending",
+    "pgrcStatus": "MATURITY EXTENDED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.619Z",
+    "updatedAt": "2026-10-26T10:47:10.652Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "MATURITY EXTENDED",
+      "reason": "Complaint Investigation in Progress",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.553Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.651Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd403ea",
+    "collegeId": "TEST-CLG-E-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd403e9",
+    "releaseRequestId": "REL-E-1792975602538",
+    "applicationId": "REL-E-1792975602538",
+    "fdrReference": "FDR-E-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-E-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-E-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-E-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-E-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:46:42.638Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "REJECTED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.638Z",
+    "updatedAt": "2026-10-26T10:47:10.658Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.556Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Investigation",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.657Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd403ee",
+    "collegeId": "TEST-CLG-F-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd403ed",
+    "releaseRequestId": "REL-F-1792975602538",
+    "applicationId": "REL-F-1792975602538",
+    "fdrReference": "FDR-F-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-F-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-F-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-F-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-F-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:46:42.657Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.658Z",
+    "updatedAt": "2026-10-26T10:47:10.654Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.555Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "Investigation Not Proven",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.653Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd403f2",
+    "collegeId": "TEST-CLG-G-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd403f1",
+    "releaseRequestId": "REL-G-1792975602538",
+    "applicationId": "REL-G-1792975602538",
+    "fdrReference": "FDR-G-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-G-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-G-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-G-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-G-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "MATURITY_EXTENDED",
+    "submissionDate": "2026-10-26T00:46:42.674Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "MATURITY EXTENDED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.675Z",
+    "updatedAt": "2026-10-26T10:47:10.647Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.551Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "MATURITY EXTENDED",
+      "reason": "Investigation in Progress",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.646Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd403f7",
+    "collegeId": "TEST-CLG-H-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd403f6",
+    "releaseRequestId": "REL-H-1792975602538",
+    "applicationId": "REL-H-1792975602538",
+    "fdrReference": "FDR-H-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-H-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-H-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-H-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-H-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:46:42.693Z",
+    "status": "Pending",
+    "pgrcStatus": "REJECTED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.693Z",
+    "updatedAt": "2026-10-26T10:47:10.650Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Complaint",
+      "count": 2,
+      "calculatedAt": "2026-10-26T10:47:10.552Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.649Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd403fb",
+    "collegeId": "TEST-CLG-I-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd403fa",
+    "releaseRequestId": "REL-I-1792975602538",
+    "applicationId": "REL-I-1792975602538",
+    "fdrReference": "FDR-I-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-I-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-I-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-I-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-I-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "MATURITY_EXTENDED",
+    "submissionDate": "2026-10-26T00:46:42.710Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "MATURITY EXTENDED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.711Z",
+    "updatedAt": "2026-10-26T10:47:10.645Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "Complaint Not Proven",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.550Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "MATURITY EXTENDED",
+      "reason": "Investigation in Progress",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.645Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd40401",
+    "collegeId": "TEST-CLG-J-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd40400",
+    "releaseRequestId": "REL-J-1792975602538",
+    "applicationId": "REL-J-1792975602538",
+    "fdrReference": "FDR-J-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-J-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-J-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Not Verified",
+        "remarks": "Notary stamp missing on Page 3 of Joint Undertaking Affidavit.",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T00:46:42.735Z"
+      },
+      {
+        "id": "REL-J-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-J-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "DOCUMENT_DEFICIENCY",
+    "submissionDate": "2026-10-26T00:46:42.729Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.729Z",
+    "updatedAt": "2026-10-26T10:47:10.639Z",
+    "__v": 1,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.547Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.639Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd40403",
+    "collegeId": "TEST-CLG-K-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd40402",
+    "releaseRequestId": "REL-K-1792975602538",
+    "applicationId": "REL-K-1792975602538",
+    "fdrReference": "FDR-K-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-K-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-K-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-K-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-K-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:46:42.767Z",
+    "status": "Approved",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.768Z",
+    "updatedAt": "2026-10-26T10:47:10.642Z",
+    "__v": 0,
+    "reviewedAt": "2026-10-26T00:46:42.788Z",
+    "reviewedBy": "fd_emp",
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.548Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.641Z"
+    }
+  },
+  {
+    "_id": "6adea2f2e57350db0fd40405",
+    "collegeId": "TEST-CLG-L-1792975602538",
+    "institutionId": "6adea2f2e57350db0fd40404",
+    "releaseRequestId": "REL-L-1792975602538",
+    "applicationId": "REL-L-1792975602538",
+    "fdrReference": "FDR-L-1792975602538",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-L-1792975602538-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-L-1792975602538-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-L-1792975602538-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-L-1792975602538-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:46:42.801Z",
+    "status": "Pending",
+    "pgrcStatus": "REJECTED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:46:42.801Z",
+    "updatedAt": "2026-10-26T10:47:10.644Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Complaint",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.549Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.643Z"
+    }
+  },
+  {
+    "_id": "6adea35878c444d66a578632",
+    "collegeId": "TEST-CLG-A-1792975704725",
+    "institutionId": "6adea35878c444d66a578631",
+    "releaseRequestId": "REL-A-1792975704725",
+    "applicationId": "REL-A-1792975704725",
+    "fdrReference": "FDR-A-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-A-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-A-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-A-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-A-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:48:24.734Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:24.736Z",
+    "updatedAt": "2026-10-26T10:47:10.637Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.547Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.637Z"
+    }
+  },
+  {
+    "_id": "6adea35878c444d66a578634",
+    "collegeId": "TEST-CLG-B-1792975704725",
+    "institutionId": "6adea35878c444d66a578633",
+    "releaseRequestId": "REL-B-1792975704725",
+    "applicationId": "REL-B-1792975704725",
+    "fdrReference": "FDR-B-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-B-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-B-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-B-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-B-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:48:24.755Z",
+    "status": "Pending",
+    "pgrcStatus": "REJECTED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:24.755Z",
+    "updatedAt": "2026-10-26T10:47:10.633Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Complaint",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.545Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.631Z"
+    }
+  },
+  {
+    "_id": "6adea35878c444d66a578637",
+    "collegeId": "TEST-CLG-C-1792975704725",
+    "institutionId": "6adea35878c444d66a578636",
+    "releaseRequestId": "REL-C-1792975704725",
+    "applicationId": "REL-C-1792975704725",
+    "fdrReference": "FDR-C-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-C-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-C-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-C-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-C-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:48:24.898Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:24.899Z",
+    "updatedAt": "2026-10-26T10:47:10.635Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "Complaint Not Proven",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.546Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.634Z"
+    }
+  },
+  {
+    "_id": "6adea35878c444d66a57863a",
+    "collegeId": "TEST-CLG-D-1792975704725",
+    "institutionId": "6adea35878c444d66a578639",
+    "releaseRequestId": "REL-D-1792975704725",
+    "applicationId": "REL-D-1792975704725",
+    "fdrReference": "FDR-D-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-D-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-D-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-D-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-D-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "MATURITY_EXTENDED",
+    "submissionDate": "2026-10-26T00:48:24.934Z",
+    "status": "Pending",
+    "pgrcStatus": "MATURITY EXTENDED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:24.935Z",
+    "updatedAt": "2026-10-26T10:47:10.630Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "MATURITY EXTENDED",
+      "reason": "Complaint Investigation in Progress",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.544Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.629Z"
+    }
+  },
+  {
+    "_id": "6adea35878c444d66a57863d",
+    "collegeId": "TEST-CLG-E-1792975704725",
+    "institutionId": "6adea35878c444d66a57863c",
+    "releaseRequestId": "REL-E-1792975704725",
+    "applicationId": "REL-E-1792975704725",
+    "fdrReference": "FDR-E-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-E-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-E-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-E-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-E-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:48:24.961Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "REJECTED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:24.962Z",
+    "updatedAt": "2026-10-26T10:47:10.622Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.541Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Investigation",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.621Z"
+    }
+  },
+  {
+    "_id": "6adea35878c444d66a578641",
+    "collegeId": "TEST-CLG-F-1792975704725",
+    "institutionId": "6adea35878c444d66a578640",
+    "releaseRequestId": "REL-F-1792975704725",
+    "applicationId": "REL-F-1792975704725",
+    "fdrReference": "FDR-F-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-F-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-F-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-F-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-F-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:48:24.993Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:24.993Z",
+    "updatedAt": "2026-10-26T10:47:10.624Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.543Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "Investigation Not Proven",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.623Z"
+    }
+  },
+  {
+    "_id": "6adea35978c444d66a578645",
+    "collegeId": "TEST-CLG-G-1792975704725",
+    "institutionId": "6adea35978c444d66a578644",
+    "releaseRequestId": "REL-G-1792975704725",
+    "applicationId": "REL-G-1792975704725",
+    "fdrReference": "FDR-G-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-G-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-G-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-G-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-G-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "MATURITY_EXTENDED",
+    "submissionDate": "2026-10-26T00:48:25.024Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "MATURITY EXTENDED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:25.024Z",
+    "updatedAt": "2026-10-26T10:47:10.618Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.540Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "MATURITY EXTENDED",
+      "reason": "Investigation in Progress",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.617Z"
+    }
+  },
+  {
+    "_id": "6adea35978c444d66a57864a",
+    "collegeId": "TEST-CLG-H-1792975704725",
+    "institutionId": "6adea35978c444d66a578649",
+    "releaseRequestId": "REL-H-1792975704725",
+    "applicationId": "REL-H-1792975704725",
+    "fdrReference": "FDR-H-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-H-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-H-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-H-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-H-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:48:25.062Z",
+    "status": "Pending",
+    "pgrcStatus": "REJECTED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:25.063Z",
+    "updatedAt": "2026-10-26T10:47:10.612Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Complaint",
+      "count": 2,
+      "calculatedAt": "2026-10-26T10:47:10.536Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.611Z"
+    }
+  },
+  {
+    "_id": "6adea35978c444d66a57864e",
+    "collegeId": "TEST-CLG-I-1792975704725",
+    "institutionId": "6adea35978c444d66a57864d",
+    "releaseRequestId": "REL-I-1792975704725",
+    "applicationId": "REL-I-1792975704725",
+    "fdrReference": "FDR-I-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-I-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-I-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-I-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-I-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "MATURITY_EXTENDED",
+    "submissionDate": "2026-10-26T00:48:25.101Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "MATURITY EXTENDED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:25.102Z",
+    "updatedAt": "2026-10-26T10:47:10.615Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "Complaint Not Proven",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.538Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "MATURITY EXTENDED",
+      "reason": "Investigation in Progress",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.614Z"
+    }
+  },
+  {
+    "_id": "6adea35978c444d66a578654",
+    "collegeId": "TEST-CLG-J-1792975704725",
+    "institutionId": "6adea35978c444d66a578653",
+    "releaseRequestId": "REL-J-1792975704725",
+    "applicationId": "REL-J-1792975704725",
+    "fdrReference": "FDR-J-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-J-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-J-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Not Verified",
+        "remarks": "Notary stamp missing on Page 3 of Joint Undertaking Affidavit.",
+        "verifiedBy": "fd_emp",
+        "verifiedAt": "2026-10-26T00:48:25.148Z"
+      },
+      {
+        "id": "REL-J-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-J-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "DOCUMENT_DEFICIENCY",
+    "submissionDate": "2026-10-26T00:48:25.135Z",
+    "status": "Pending",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:25.136Z",
+    "updatedAt": "2026-10-26T10:47:10.616Z",
+    "__v": 1,
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.539Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.616Z"
+    }
+  },
+  {
+    "_id": "6adea35978c444d66a578656",
+    "collegeId": "TEST-CLG-K-1792975704725",
+    "institutionId": "6adea35978c444d66a578655",
+    "releaseRequestId": "REL-K-1792975704725",
+    "applicationId": "REL-K-1792975704725",
+    "fdrReference": "FDR-K-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-K-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-K-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-K-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-K-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "ELIGIBLE_FOR_APPROVAL",
+    "submissionDate": "2026-10-26T00:48:25.217Z",
+    "status": "Approved",
+    "pgrcStatus": "APPROVED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:25.218Z",
+    "updatedAt": "2026-10-26T10:47:10.620Z",
+    "__v": 0,
+    "reviewedAt": "2026-10-26T00:48:25.256Z",
+    "reviewedBy": "fd_emp",
+    "pgrcClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.541Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.619Z"
+    }
+  },
+  {
+    "_id": "6adea35978c444d66a578658",
+    "collegeId": "TEST-CLG-L-1792975704725",
+    "institutionId": "6adea35978c444d66a578657",
+    "releaseRequestId": "REL-L-1792975704725",
+    "applicationId": "REL-L-1792975704725",
+    "fdrReference": "FDR-L-1792975704725",
+    "depositDetails": "₹35,00,000 in SBI AICTE Joint Account",
+    "reason": "Completion of 8-year lock-in period for Engineering Programme",
+    "documents": [
+      "eoa.pdf",
+      "affidavit.pdf",
+      "approval.pdf",
+      "fdr.pdf"
+    ],
+    "documentItems": [
+      {
+        "id": "REL-L-1792975704725-DOC-1",
+        "name": "Extension of Approval (EoA)",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-L-1792975704725-DOC-2",
+        "name": "Joint Undertaking Affidavit",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-L-1792975704725-DOC-3",
+        "name": "Release Approval Letter",
+        "status": "Verified",
+        "remarks": ""
+      },
+      {
+        "id": "REL-L-1792975704725-DOC-4",
+        "name": "FDR Receipt Copy",
+        "status": "Verified",
+        "remarks": ""
+      }
+    ],
+    "overallReleaseStatus": "REJECTED",
+    "submissionDate": "2026-10-26T00:48:25.273Z",
+    "status": "Pending",
+    "pgrcStatus": "REJECTED",
+    "violenceStatus": "APPROVED",
+    "declineRemarks": "",
+    "createdAt": "2026-10-26T00:48:25.273Z",
+    "updatedAt": "2026-10-26T10:47:10.609Z",
+    "__v": 0,
+    "pgrcClearanceSnapshot": {
+      "status": "REJECTED",
+      "reason": "Proven Complaint",
+      "count": 1,
+      "calculatedAt": "2026-10-26T10:47:10.530Z"
+    },
+    "vigilanceClearanceSnapshot": {
+      "status": "APPROVED",
+      "reason": "No Complaints Found",
+      "count": 0,
+      "calculatedAt": "2026-10-26T10:47:10.608Z"
+    }
+  }
+]
